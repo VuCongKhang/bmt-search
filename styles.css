@@ -22,9 +22,14 @@ body {
 	position: absolute;
 	top: 20px;
 	right: 20px;
-	background-color: #666;
-	background-size: 70px 70px;
-	border-radius: 20px;
+	background-color: #000;
+	border-radius: 25px;
+	transition: 800ms;
+	size: 70px 70px;
+}
+
+.gemini:hover {
+
 }
 
 .search-bar {
