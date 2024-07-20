@@ -1,5 +1,5 @@
 body {
-	background-color: #f2f2f2; /* light gray background */
+	background-color: #fff; /* light gray background */
 	font-family: Arial, sans-serif; /* use a sans-serif font */
 }
 
@@ -10,8 +10,21 @@ body {
 	text-align: center;
 }
 
+ img {
+	width: 50px;
+ }
+
 .header img {
 	width: 540px;
+}
+
+.gemini {
+	position: absolute;
+	top: 20px;
+	right: 20px;
+	background-color: #666;
+	background-size: 70px 70px;
+	border-radius: 20px;
 }
 
 .search-bar {
