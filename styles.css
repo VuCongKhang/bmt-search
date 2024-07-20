@@ -1,0 +1,55 @@
+body {
+	background-color: #f2f2f2; /* light gray background */
+	font-family: Arial, sans-serif; /* use a sans-serif font */
+}
+
+.header {
+    background-color: #fff;
+    image-resolution: 1;
+	padding: 10px;
+	text-align: center;
+}
+
+.header img {
+	width: 540px;
+}
+
+.search-bar {
+    justify-content: center;
+	background-color: #fff; /* white background for the search bar */
+	padding: 10px;
+	border: 1px solid #ccc; /* add a border around the search bar */
+	border-radius: 5px; /* add a slight rounded corner effect */
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* add a subtle shadow effect */
+}
+
+.search-bar input[type="text"] {
+    position: relative;
+	width: 500px; /* set the search input field width */
+	height: 30px;
+	padding: 10px;
+	font-size: 16px;
+	border: 1px solid #ccc;
+	border-radius: 20px 20px 20px 20px;
+}
+
+.search-bar button[type="submit"] {
+    position: relative;
+	background-color: #3367d6; /* blue background for the search button */
+	color: #fff;
+	padding: 10px 20px;
+	border: none;
+	border-radius: 20px;
+	cursor: pointer;
+}
+
+.search-bar button[type="submit"]:hover {
+	background-color: #2f5bb7; /* darker blue background on hover */
+}
+
+.footer {
+	background-color: #f2f2f2; /* light gray background for the footer */
+	padding: 10px;
+	text-align: center;
+	color: #666;
+}
