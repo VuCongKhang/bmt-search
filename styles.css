@@ -4,8 +4,8 @@ body {
 }
 
 .header {
-    background-color: #fff;
-    image-resolution: 1;
+    	background-color: #fff;
+    	image-resolution: 1;
 	padding: 10px;
 	text-align: center;
 }
@@ -19,7 +19,6 @@ body {
 }
 
 .gemini {
-	position: flex;
 	top: 20px;
 	right: 20px;
 	background-color: #000;
@@ -33,7 +32,6 @@ body {
 }
 
 .discord {
-	position: flex;
 	top: 20px;
 	right: 100px;
 	background-color: #000;
