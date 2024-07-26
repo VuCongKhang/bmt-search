@@ -35,7 +35,7 @@ body {
 .discord {
 	position: flex;
 	top: 20px;
-	right: 50px;
+	right: 100px;
 	background-color: #000;
 	border-radius: 25px;
 	transition: 800ms;
