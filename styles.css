@@ -29,14 +29,20 @@ body {
 
 }
 
-.gemini:hover {
-
-}
-
 .discord {
 	position: fixed;
 	top: 20px;
 	right: 100px;
+	background-color: #000;
+	border-radius: 31.4px;
+	transition: 800ms;
+	size: 70px 70px;
+}
+
+.mail {
+	position: fixed;
+	top: 20px;
+	right: 180px;
 	background-color: #000;
 	border-radius: 31.4px;
 	transition: 800ms;
