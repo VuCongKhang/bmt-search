@@ -19,7 +19,7 @@ body {
 }
 
 .gemini {
-	position: absolute;
+	position: flex;
 	top: 20px;
 	right: 20px;
 	background-color: #000;
