@@ -32,6 +32,16 @@ body {
 
 }
 
+.discord {
+	position: absolute;
+	top: 20px;
+	right: 50px;
+	background-color: #000;
+	border-radius: 25px;
+	transition: 800ms;
+	size: 70px 70px;
+}
+
 .search-bar {
     justify-content: center;
 	background-color: #fff; /* white background for the search bar */
