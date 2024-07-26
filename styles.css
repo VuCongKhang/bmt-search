@@ -23,10 +23,10 @@ body {
 	top: 20px;
 	right: 20px;
 	background-color: #000;
-	border-radius: 25px;
+	border-radius: 31.4px;
 	transition: 800ms;
 	size: 70px 70px;
-	border: 3px solid #aaaaaa
+	border: 3px #aaaaaa
 }
 
 .gemini:hover {
@@ -38,10 +38,10 @@ body {
 	top: 20px;
 	right: 100px;
 	background-color: #000;
-	border-radius: 25px;
+	border-radius: 31.4px;
 	transition: 800ms;
 	size: 70px 70px;
-	border: 3px solid #aaaaaa
+	border: 3px #aaaaaa
 }
 
 .search-bar {
