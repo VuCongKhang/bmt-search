@@ -19,6 +19,7 @@ body {
 }
 
 .gemini {
+	position: relative;
 	top: 20px;
 	right: 20px;
 	background-color: #000;
@@ -32,6 +33,7 @@ body {
 }
 
 .discord {
+	position: relative;
 	top: 20px;
 	right: 100px;
 	background-color: #000;
